@@ -30,50 +30,6 @@ Have a job posting to share? Help us grow this resource! It's easy:
 1. **Use the Format**: Follow the job posting structure below
 2. **Submit**: Add your job to the correct file and create a Pull Request
 
-
-## 📝 Job Posting Format
-
-Use this simple structure for all job posts:
-
-```
-[Company Name] - [Job Title]
-
-Location: [City, Country / Remote / Hybrid]  
-Salary: [Range or "Not specified"]  
-Type: [Full-time / Part-time / Contract / Internship]  
-
-Requirements
-- [Key requirement 1]
-- [Key requirement 2]
-- [Key requirement 3]
-
-Tech Stack
-[Technology 1] [Technology 2] [Technology 3]
-
-Apply
-[Apply Here](link-to-application) | Deadline: [Date or "Rolling"]
-
----
-```
-### How it looks when rendered:
-
-## TechCorp - Senior Frontend Developer
-
-**Location:** San Francisco, CA / Remote  
-**Salary:** $120k - $160k  
-**Type:** Full-time  
-
-### Requirements
-- 5+ years React/Vue.js experience
-- Strong TypeScript and JavaScript skills
-- Experience with modern build tools and CI/CD
-
-### Tech Stack
-`React` `TypeScript` `Node.js` `AWS` `Docker`
-
-### Apply
-**[Apply Here](https://sample.com/careers/frontend-dev)** | **Deadline:** June 20, 2025
-
 ---
 
 📬 Stay Updated
