@@ -5,7 +5,7 @@
 - [Frontend Developer](#frontend-developer)
 - [Full Stack Developer](#full-stack-developer)
 - [Mobile Developer](#mobile-developer)
-- [DevOps/Infrastructure](#devopsinfrastructure)
+- [DevOps/Infrastructure](#devops/infrastructure)
 - [AI/ML](#AI/ML)
 
 ## 📝 참고사항
@@ -91,21 +91,6 @@
 
 ---
 
-### CJ대한통운 TES물류기술연구소 AI개발자 경력사원 채용
-
-**회사:** CJ대한통운
-
-**기술스택:** AWS
-
-**주요 자격요건:**
-- 석사 또는 박사 기간 포함 #AI, #ML, #DeepLearning 이론 및 실무 지식 5년 이상
-- #딥러닝프레임워크 활용 능력 (#Pytorch, #Tensorflow)
-- #소프트웨어엔지니어링 능력 (시스템 통합, 서비스 및 모델 #API 개발)
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/8c91eab3-2f63-46c1-9837-e8e73feeffa3)
-
----
-
 ### 쿠팡페이 백엔드 엔지니어 결제 수단 경력직 채용
 
 **회사:** 쿠팡페이
@@ -185,19 +170,6 @@
 
 ---
 
-### 한화자산운용 법무팀 사내변호사 경력직 채용
-
-**회사:** 한화자산운용
-
-**주요 자격요건:**
-- #학사 이상 학위 보유자
-- #변호사 자격증 필수 보유자
-- 금융업 및 금융투자상품 관련 법규 지식 보유자
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/957d5950-bbbd-41f3-8b13-92ec74a5f768)
-
----
-
 ### 한화로보틱스 모바일 로봇 SW 경력 엔지니어 채용
 
 **회사:** 한화로보틱스
@@ -211,83 +183,7 @@
 
 ---
 
-### 한화이센셜 검사 경력직 채용
 
-**회사:** 한화이센셜
-
-**주요 자격요건:**
-- 국내외 4년제 이상 대학 졸업자
-- #FMM 제품 검사 및 분석 경험자
-- #AOI검사기 및 #광학검사기 운영 경험자
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/83497849-c0fa-417e-a93e-068afb383561)
-
----
-
-### 한화이센셜 도금 Eng 경력직 채용
-
-**회사:** 한화이센셜
-
-**주요 자격요건:**
-- #경력5년이상 관련 경험 보유
-- #합금도금 물성 구현 및 공정 이해
-- 도금 원료 #Chemical 개선 능력
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/5d91cc10-a6a5-4580-8e5c-660c86d44dbf)
-
----
-
-### 한화이센셜 도금 RD 경력직 채용
-
-**회사:** 한화이센셜
-
-**주요 자격요건:**
-- #Invar도금 개발 #경력3년이상
-- #도금개발 #경력5년이상
-- #박막패턴도금 연구개발 경험
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/75ab700a-cac6-4b90-a942-e8ea6a71863e)
-
----
-
-### 한화이센셜 포토 노광 경력직 채용
-
-**회사:** 한화이센셜
-
-**주요 자격요건:**
-- #경력5년이상 관련 경험
-- #PhotoProcess 이해 및 설비 컨트롤 능력
-- #Photo공정재료 #Chemical 이해 및 개선 능력
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/53f9f030-4bcc-426f-8848-b5990b398e89)
-
----
-
-### 한화이센셜 증착 경력직 채용
-
-**회사:** 한화이센셜
-
-**주요 자격요건:**
-- #경력5년이상 관련 경험
-- #물리기상증착 #InLineSputter 개발 경험
-- Sputter 막 물성 및 성능 구현 능력
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/8ab20168-0b80-4290-bf32-705ff8dc453c)
-
----
-
-### 한화이센셜 세정 Strip 경력직 채용
-
-**회사:** 한화이센셜
-
-**주요 자격요건:**
-- #경력10년이상 관련 경험
-- #Wet세정기 #Strip기 개발 및 양산 경험
-- #BareGlass 및 #증착Glass 세정 원리 이해
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/04d3ba53-2b41-4215-8aa4-0a1f2e7143a7)
-
----
 
 ### LG 정보보안센터 퍼블릭클라우드 보안 엔지니어 경력직 채용
 
@@ -301,58 +197,6 @@
 - 보안 정책 수립 및 합의 경험
 
 **지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/7bcdb063-d5ac-4682-b739-19754f1e1884)
-
----
-
-### CJ올리브영 디지털 마케팅 전략 담당자 채용
-
-**회사:** CJ올리브영
-
-**주요 자격요건:**
-- #학사 학위 이상
-- #검색광고 및 #배너광고 등 퍼포먼스 광고 매체 운영 경험
-- 국내외 퍼포먼스 매체 운영 경험 (#Meta, #Google, #Kakao, #Naver)
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/7e128dbb-7f1d-4652-b051-885620a989dc)
-
----
-
-### 한화투자증권 고객지원파트 상담원 경력직 채용
-
-**회사:** 한화투자증권
-
-**주요 자격요건:**
-- 남성의 경우 병역필 또는 면제자
-- 해외여행 결격 사유가 없는 자
-- 증권사 지점 또는 콜센터 업무 경험자
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/60eff123-72c3-4f89-afad-62b93dc0e79e)
-
----
-
-### LG webOS 플랫폼 게임 신사업 전문가 경력직 채용
-
-**회사:** LG
-
-**주요 자격요건:**
-- 게임 컨텐츠 사업개발 및 기획, 파트너 제휴 경력 8년 이상
-- 게임 산업 전반에 대한 이해 보유자
-- 글로벌 파트너사와 협상을 위한 영어 소통 역량
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/455d88ee-fda3-4abf-9a42-f3f8af4e7658)
-
----
-
-### 한화솔루션 인사이트 부문 MUWA NISEKO 인턴사원 채용
-
-**회사:** 한화솔루션
-
-**주요 자격요건:**
-- 영어 또는 일본어 구사 가능자
-- 인턴십 기간 동안 일본 근무 가능자
-- 해외 여행에 결격 사유가 없는 자
-
-**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/d609f8e3-47f3-41b7-9acd-c12740a80822)
 
 ---
 
@@ -449,9 +293,23 @@
 
 
 ## AI/ML
-# 🤖 AI Development Jobs (141 positions)
 
-## 안랩 - 보안 제품 서비스 기획자 경력직 채용
+
+### CJ대한통운 TES물류기술연구소 AI개발자 경력사원 채용
+
+**회사:** CJ대한통운
+
+**기술스택:** AWS
+
+**주요 자격요건:**
+- 석사 또는 박사 기간 포함 #AI, #ML, #DeepLearning 이론 및 실무 지식 5년 이상
+- #딥러닝프레임워크 활용 능력 (#Pytorch, #Tensorflow)
+- #소프트웨어엔지니어링 능력 (시스템 통합, 서비스 및 모델 #API 개발)
+
+**지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/8c91eab3-2f63-46c1-9837-e8e73feeffa3)
+
+
+### 안랩 - 보안 제품 서비스 기획자 경력직 채용
 
 **Location:** Not specified
 **Salary:** Not specified
@@ -466,7 +324,7 @@
 
 ---
 
-## Sendbird Solution Architect 경력직 - 채용
+### Sendbird Solution Architect 경력직 - 채용
 
 **Location:** Seoul, Korea
 **Salary:** $180,000 - $190,000
@@ -486,7 +344,7 @@
 
 ---
 
-## HYBE 글로벌전략 - 경력직 채용
+### HYBE 글로벌전략 - 경력직 채용
 
 **Location:** Seoul, Korea
 **Salary:** Not specified
@@ -522,24 +380,6 @@
 
 ---
 
-## AITRICS Service Planning Manager 경력직 - 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 5+ years experience
-- AI/ML experience required
-
-**Tech Stack**
-`SQL` `LLM`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/3b21e75d-c1b6-4bdb-af9c-2a982a28269d) | Deadline: Rolling
-
----
-
 ## AITRICS Data Manager 경력직 - 채용
 
 **Location:** Seoul, Korea
@@ -552,24 +392,6 @@
 
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/c8c0564f-3b6f-4656-b5ad-4ea612f88632) | Deadline: Rolling
-
----
-
-## AITRICS Clinical Project Manager 경력직 - 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 3+ years experience
-- AI/ML experience required
-
-**Tech Stack**
-`SQL` `LLM`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/42b18324-f274-44fa-ac3f-b0e4db234ab0) | Deadline: Rolling
 
 ---
 
@@ -610,36 +432,6 @@
 
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/b270ecb9-43a9-41ea-85aa-34ca6e21f3d2) | Deadline: Rolling
-
----
-
-## SK하이닉스 HBM Strategy Alliance - 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 5+ years experience
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/eb4fc837-43c9-41e0-9616-f74e9b807cde) | Deadline: Rolling
-
----
-
-## SK하이닉스 HBM - 상품사업화 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 5+ years experience
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/067347f9-593a-46fb-9e50-166282da8c09) | Deadline: Rolling
 
 ---
 
@@ -694,40 +486,6 @@
 
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/a7319c5f-5402-4d1c-857c-e48e9b622483) | Deadline: Rolling
-
----
-
-## KPMG Digital본부 - 금융권 IT 및 AI Digital Transformation 전문가 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 5+ years experience
-- Master's degree preferred
-- AI/ML experience required
-
-**Tech Stack**
-`Git`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/9297f3f1-8735-452f-952d-c7e731755490) | Deadline: Rolling
-
----
-
-## 토스증권 PC Platform Designer - 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 3+ years experience
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/8dd007b0-fa17-411e-a89c-7726dea79dec) | Deadline: Rolling
 
 ---
 
@@ -807,24 +565,6 @@
 
 ---
 
-## PWC 공공부문 - 경력 컨설턴트 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 3+ years experience
-- Master's or PhD degree preferred
-- AI/ML experience required
-
-**Tech Stack**
-`ML` `Git`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/706f350d-fe85-4d3f-af3c-c70d53ddaa05) | Deadline: Rolling
-
----
 
 ## PWC 금융본부 - 데이터 엔지니어 경력직 채용
 
@@ -884,35 +624,6 @@
 
 ---
 
-## SK텔레콤 - 에이닷 영상 검색추천서비스 운영 담당자 신입 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Contract
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/1e73d525-fde2-4d9c-8d67-625d3d986609) | Deadline: Rolling
-
----
-
-## SK텔레콤 - 에이닷 음악 추천 서비스 운영 담당자 신입 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Contract
-
-**Requirements**
-- 1+ years experience
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/86f2cea9-a9de-4a50-8e75-f4bc5504bd92) | Deadline: Rolling
-
----
-
 ## CJ AI실 Computer Vision AI Engineer - 경력직 채용
 
 **Location:** Seoul, Korea
@@ -933,26 +644,6 @@
 
 ---
 
-## 보스턴컨설팅그룹 Digital Strategy Associate Senior Associate - 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 2+ years experience
-- Bachelor's degree required
-- AI/ML experience required
-- Cloud platform experience (AWS/GCP/Azure)
-
-**Tech Stack**
-`Git`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/5cc53a7f-593d-42e0-af86-d5615c110e6f) | Deadline: Rolling
-
----
-
 ## 야놀자 YNEXT Software Engineer  IAB - 경력직 채용
 
 **Location:** Seoul, Korea
@@ -969,75 +660,6 @@
 
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/7a2f226d-3b4b-4bf9-bd80-d98cb172e6ac) | Deadline: Rolling
-
----
-
-## OpenAI Customer Success Manager 경력직 - 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 8+ years experience
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/6f822739-2724-4b7c-8ffd-9cc87d0618e9) | Deadline: Rolling
-
----
-
-## OpenAI Account Director Strategics 경력직 - 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 14+ years experience
-- AI/ML experience required
-
-**Tech Stack**
-`Go`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/eab1086c-48bb-4822-b70d-05aa25b67b7a) | Deadline: Rolling
-
----
-
-## OpenAI Account Director Large Enterprise 경력직 - 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 10+ years experience
-- AI/ML experience required
-
-**Tech Stack**
-`Go`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/72d3e4a2-8bbb-4b43-a4a7-7db9da4c8d8d) | Deadline: Rolling
-
----
-
-## OpenAI Account Director Digital Natives 경력직 - 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 7+ years experience
-- AI/ML experience required
-
-**Tech Stack**
-`Go`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/625162fe-8fcc-4636-a0a8-8081b3cc4330) | Deadline: Rolling
 
 ---
 
@@ -1076,24 +698,6 @@
 
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/74ed172a-67f8-48a1-a9ef-19ca064af05a) | Deadline: Rolling
-
----
-
-## 에이블리 AI - 프로덕트 오너(AI PO) 경력직 채용
-
-**Location:** Not specified
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 1+ years experience
-- AI/ML experience required
-
-**Tech Stack**
-`ML`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/ca3a5a85-28a9-480f-beda-d49eff6d7579) | Deadline: Rolling
 
 ---
 
@@ -1166,24 +770,6 @@
 
 ---
 
-## 한화시스템 ICT - 부문 전략기획 담당자 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 5+ years experience
-- AI/ML experience required
-
-**Tech Stack**
-`Git`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/a9ca2b80-e62f-40b3-ad25-305a7876b86f) | Deadline: Rolling
-
----
-
 ## SK매직 - 관제센터 운영 경력직 채용
 
 **Location:** Not specified
@@ -1197,118 +783,6 @@
 
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/e478286d-db9c-408b-8478-a182a56917a1) | Deadline: Rolling
-
----
-
-## 중앙일보 IT - 서비스본부 서비스기획팀 서비스기획자 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- AI/ML experience required
-
-**Tech Stack**
-`LLM`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/7b7f61a5-9d50-4b7e-bf1f-00b89c1d18be) | Deadline: Rolling
-
----
-
-## 코딧 - 채용 매니저 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 1+ years experience
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/9ffb23a9-170c-4648-909c-24f1ee752e69) | Deadline: Rolling
-
----
-
-## LS ELECTRIC 신재생 PM - 설계 경력직 채용
-
-**Location:** Not specified
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- AI/ML experience required
-
-**Tech Stack**
-`C++`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/67f00b91-92a7-4055-b471-4aea6e04d864) | Deadline: Rolling
-
----
-
-## LS ELECTRIC PG PM팀 - 신입경력직 채용
-
-**Location:** Not specified
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- AI/ML experience required
-
-**Tech Stack**
-`C++`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/0156a960-7097-47b2-a5dc-de0acc53c535) | Deadline: Rolling
-
----
-
-## 엔키화이트햇 - 컨텐츠팀 컨텐츠 연구원 채용
-
-**Location:** Not specified
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- AI/ML experience required
-
-**Tech Stack**
-`Docker` `ML`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/0cb6c169-8c2e-45a6-9f47-35e13a162562) | Deadline: Rolling
-
----
-
-## 코딧 - 경영지원실 인턴 정규직 전환 가능
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Internship
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/3ee0b247-bdb5-49a3-956a-e9ef30cec706) | Deadline: Rolling
-
----
-
-## 채널톡 Account Executive - 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 1+ years experience
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/ba7c6d9d-356e-4574-9d34-87657772131f) | Deadline: Rolling
 
 ---
 
@@ -1367,128 +841,6 @@
 
 ---
 
-## SK텔레콤 - 에이닷 언어모델 데이터 생성자 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Contract
-
-**Requirements**
-- Bachelor's degree required
-- AI/ML experience required
-
-**Tech Stack**
-`NLP`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/d645253a-f9dc-4dbb-ad21-0f3b44c1eebc) | Deadline: Rolling
-
----
-
-## 코딧 - 채용 인턴 정규직 전환 가능 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Internship
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/dd77ad4f-3b95-4c23-9468-cb4dfb09abb1) | Deadline: Rolling
-
----
-
-## 코딧 - 경영지원실 총무 인턴 정규직 전환 가능 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Internship
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/2fa26ab4-26ba-4617-9c6f-4f6c76b7b57a) | Deadline: Rolling
-
----
-
-## 오케스트로 - 특허 IP 운영담당자 경력직 채용
-
-**Location:** Not specified
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 3+ years experience
-- Bachelor's degree required
-- AI/ML experience required
-- Cloud platform experience (AWS/GCP/Azure)
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/f446e008-3896-4995-8c4c-05d4e8e8dedf) | Deadline: Rolling
-
----
-
-## 오케스트로 - 사업제안 Designer 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- AI/ML experience required
-- Cloud platform experience (AWS/GCP/Azure)
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/63870a94-2da2-4f53-b00d-49e198013377) | Deadline: Rolling
-
----
-
-## 퓨쳐스콜레 Digital Growth Marketer - 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 5+ years experience
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/0374800c-0d0c-40b8-b90c-11c7ee4c895b) | Deadline: Rolling
-
----
-
-## 글로우서울 AI - 워크플로우 이노베이터 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/60688076-226f-42ff-b0d7-61c39eb83cff) | Deadline: Rolling
-
----
-
-## 쿠팡 AI - 학습 데이터 품질 평가 담당자 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Contract
-
-**Requirements**
-- Bachelor's degree required
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/2653b857-4e60-4ca4-a489-1d7df91d554a) | Deadline: Rolling
-
----
-
 ## SK 인크로스 Backend - 개발 인턴 채용
 
 **Location:** Seoul, Korea
@@ -1505,24 +857,6 @@
 
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/7344ac9b-3c77-4e1c-929e-3ef331aa0749) | Deadline: Rolling
-
----
-
-## 컴투스 AI - 기획 인턴 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Internship
-
-**Requirements**
-- AI/ML experience required
-- Python and ML frameworks (PyTorch/TensorFlow)
-
-**Tech Stack**
-`Python` `Go`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/4fefe15c-fade-4cb4-b759-26dc7b1bb5e1) | Deadline: Rolling
 
 ---
 
@@ -1651,34 +985,6 @@
 
 ---
 
-## 디캠프 - 투자팀 인턴채용
-
-**Location:** Not specified
-**Salary:** Not specified
-**Type:** Internship
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/92eadc3c-f441-4566-a1e8-21f68e87a278) | Deadline: Rolling
-
----
-
-## 디캠프 IT - 파트 인턴채용
-
-**Location:** Not specified
-**Salary:** Not specified
-**Type:** Internship
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/bf3c68d0-51d2-4e75-9a21-a3049d4ec445) | Deadline: Rolling
-
----
-
 ## sionicai AI ML Research Intern 채용 - 연계형
 
 **Location:** Seoul, Korea
@@ -1694,40 +1000,6 @@
 
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/4172f9cd-c8b1-4e63-bc04-109405b19fc7) | Deadline: Rolling
-
----
-
-## sionicai Product Planner Intern 제품 - 기획 채용 연계형
-
-**Location:** Not specified
-**Salary:** Not specified
-**Type:** Internship
-
-**Requirements**
-- AI/ML experience required
-
-**Tech Stack**
-`LLM`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/ff1c723e-03d4-4094-9f55-52e2d17738ce) | Deadline: Rolling
-
----
-
-## 클라썸 - 기업 세일즈 인턴(SDR) 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Internship
-
-**Requirements**
-- AI/ML experience required
-
-**Tech Stack**
-`Go`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/93c67fb4-1b78-48a9-9191-75dce3010a2d) | Deadline: Rolling
 
 ---
 
@@ -1817,47 +1089,6 @@
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/b94e91bf-7de1-4697-be78-db8014d9640f) | Deadline: Rolling
 
----
-
-## GetGPT 해외사업개발 - 매니저 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/5f659177-bc1c-4ef4-a877-9b2610d73b58) | Deadline: Rolling
-
----
-
-## GetGPT 콘텐츠 - 마케터 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/e28fb05e-bf19-459a-8cf5-0ac07e7b150e) | Deadline: Rolling
-
----
-
-## GetGPT 프로덕트 - 매니저 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/072dd814-e0a7-46f6-9daf-d51bf88a36ac) | Deadline: Rolling
 
 ---
 
@@ -1931,36 +1162,6 @@
 
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/356ce5a4-8f05-4afc-93a9-4ff5e5af8fce) | Deadline: Rolling
-
----
-
-## CJ올리브네트웍스 AI - 기술전략 경력직 채용
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 7+ years experience
-- Bachelor's degree required
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/bee5f958-40c1-4b36-a01e-a76a961c00dc) | Deadline: Rolling
-
----
-
-## 킨도프 CEO Staff - 단기 채용
-
-**Location:** Not specified
-**Salary:** Not specified
-**Type:** Contract
-
-**Requirements**
-- AI/ML experience required
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/5182b8f9-523e-4914-b702-25a2d6db04da) | Deadline: Rolling
 
 ---
 
@@ -2099,24 +1300,6 @@
 
 **Apply**
 [Apply Here](https://www.careerwiki.asia/wiki/section/60e42ee7-9acd-477c-8ad6-720efad05ab7) | Deadline: Rolling
-
----
-
-## 사이오닉에이아이 Product Manager - 
-
-**Location:** Seoul, Korea
-**Salary:** Not specified
-**Type:** Full-time
-
-**Requirements**
-- 3+ years experience
-- AI/ML experience required
-
-**Tech Stack**
-`LLM`
-
-**Apply**
-[Apply Here](https://www.careerwiki.asia/wiki/section/05cc123a-100d-4df5-9a12-591e9e0cd39a) | Deadline: Rolling
 
 ---
 
