@@ -8,11 +8,13 @@ Welcome to **Daily Korean Developer Jobs**! We post new developer job opportunit
 
 **Looking for today's job postings?** Click below to see the latest opportunities updated for **June 5, 2025**:
 
-👉 **[View Today's Jobs](Today/Today-Jobs.md)** 👈
+👉 **[View Today's Jobs](today.md)** 👈
+
 
 ## 🌟 Why Use This Repository?
 
 Our goal is to make job hunting easy for developers. We update this repository daily with fresh job listings from top companies, startups, and organizations worldwide. No need to search multiple sites—just check here!
+
 
 ## 🛠️ How to Explore Jobs
 
@@ -20,12 +22,14 @@ Our goal is to make job hunting easy for developers. We update this repository d
 - **Search**: Use GitHub's search bar to find specific roles or browse by your vibes!
 - **Filter by Tech Stack**: Look for your preferred technologies in job descriptions
 
+
 ## 🤝 Want to Contribute?
 
 Have a job posting to share? Help us grow this resource! It's easy:
 
 1. **Use the Format**: Follow the job posting structure below
 2. **Submit**: Add your job to the correct file and create a Pull Request
+
 
 ## 📝 Job Posting Format
 
