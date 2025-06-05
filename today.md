@@ -1,13 +1,5 @@
 # 개발자 채용 정보 - 2025-06-05
 
-## 📋 포지션
-- [Backend Developer](#backend-developer)
-- [Frontend Developer](#frontend-developer)
-- [Full Stack Developer](#full-stack-developer)
-- [Mobile Developer](#mobile-developer)
-- [DevOps/Infrastructure](#devops/infrastructure)
-- [AI/ML](#AI/ML)
-
 ## 📝 참고사항
 - 지원하는 회사의 사업자 정보를 반드시 확인해주세요.
 - 모든 정보는 각 회사의 공식 채용공고를 기반으로 작성되었습니다.
@@ -15,8 +7,6 @@
 
 
 ---
-
-## Backend Developer
 
 ### 모요 Backend Developer Platform 경력직 채용
 
@@ -121,8 +111,6 @@
 
 ---
 
-## Frontend Developer
-
 ### 안랩 Web 개발 보안관제플랫폼 경력직 채용
 
 **회사:** 안랩
@@ -152,8 +140,6 @@
 **지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/4882a5ab-20e3-4ddd-a380-e44b20194139)
 
 ---
-
-## Mobile Developer
 
 ### 한화생명 COE부문 AI Engineer 자연어처리 경력직 채용
 
@@ -290,9 +276,6 @@
 - 대규모 #분산시스템 경험자
 
 **지원링크:** [바로가기](https://www.careerwiki.asia/wiki/section/e6fd744a-1428-49a3-9d0a-2239fcb20c4d)
-
-
-## AI/ML
 
 
 ### CJ대한통운 TES물류기술연구소 AI개발자 경력사원 채용
